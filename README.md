@@ -9,7 +9,15 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-333333?style=for-the-badge&logo=javascript&logoColor=white)
 
+## 🛠️ Technical Powerhouse
 
+| Layer | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Frontend** | **React.js** | Declarative UI and state management. |
+| **Styling** | **Tailwind CSS** | Utility-first, rapid design implementation. |
+| **Motion** | **Framer Motion** | Complex UI transitions and component entrance. |
+| **Icons** | **Lucide React** | Lightweight, pixel-perfect SVG iconography. |
+| **Routing** | **React Router** | Client-side navigation & page handling. |
 **URL**: https://lovable.dev/projects/2bbaad5b-49f3-474d-a260-6ed22a6d6f43
 
 ## How can I edit this code?
